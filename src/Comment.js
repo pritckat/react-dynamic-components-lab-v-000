@@ -1,1 +1,3 @@
-// add Comment component here
+import React, { Component } from 'react';
+
+export default class ColorBox extends Component {}
