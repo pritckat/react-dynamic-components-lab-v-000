@@ -1,3 +1,3 @@
 import React, { Component } from 'react';
 
-export default class ColorBox extends Component {}
+export default class Comment extends Component {}
